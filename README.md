@@ -15,6 +15,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+<h1>
+### :woman_technologist: About Me : </h1>
 <h5>-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h5>
 <h5>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</h5>
 <h5>- :seedling: Exploring Technical Content Writing.</h5>
